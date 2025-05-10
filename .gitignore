@@ -1,0 +1,7 @@
+/target
+SDL2.dll
+SDL2.lib
+SDL2_gfx.dll
+SDL2_gfx.lib
+SDL2_image.dll
+SDL2_image.lib
